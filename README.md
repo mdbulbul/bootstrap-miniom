@@ -1,1 +1,1 @@
-# bootstrap-miniom
+https://mdbulbul.github.io/bootstrap-miniom/
